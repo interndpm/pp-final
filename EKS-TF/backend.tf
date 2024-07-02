@@ -3,7 +3,7 @@ terraform {
     bucket         = "pp-syd"
     region         = "ap-southeast-2"
     key            = "End-to-End-Kubernetes-DevSecOps-Tetris-Project/Jenkins-Server-TF/terraform.tfstate"
-    dynamodb_table = "pp-syd-db2"
+    dynamodb_table = "pp-syd-db3"
     encrypt        = true
   }
   required_version = ">=0.13.0"
