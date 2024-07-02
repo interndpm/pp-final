@@ -1,4 +1,4 @@
-vpc-name            = "Jenkins-vpc"
+vpc-name            = "Jenkins-vpc-pp"
 igw-name            = "Jenkins-igw"
 subnet-name         = "Jenkins-subnet"
 subnet-name2        = "Jenkins-subnet2-pp"
